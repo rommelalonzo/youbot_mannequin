@@ -1,0 +1,12 @@
+<package>
+  <description brief="youbot_mannequin">
+
+     manual_guidance
+
+  </description>
+  <author>this guy</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>https://github.com/youbot/youbot_applications</url>
+  <depend package="youbot_driver"/>
+</package>
